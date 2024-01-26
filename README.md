@@ -1,16 +1,18 @@
-### Hi there 👋
+# `Aldin`
 
-<!--
-**ALADIN847/ALADIN847** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Aldin's GitHub stats](https://github-readme-stats-three-topaz-49.vercel.app/api?username=jantokic&theme=rose_pine&count_private=true&show_icons=true&hide=stars,issues)
 
-Here are some ideas to get you started:
+![GitHub Streak](https://streak-stats.demolab.com?user=jantokic&theme=dracula&hide_border=true&count_private=true)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+
+`Full-Stack Developer` working on `copile`. Improving every day
+
+---
+
+## 📈 GitHub Stats
+
+![Top Langs](https://github-readme-stats-three-topaz-49.vercel.app/api/top-langs/?username=jantokic&layout=donut&langs_count=5&hide=CMake,Makefile)
+---
