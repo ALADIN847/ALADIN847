@@ -12,3 +12,6 @@
 
 ---
 
+## Skills
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,python,go,express,nodejs,mysql,mongodb,aws,gcp,docker,postman,vercel,firebase,stackoverflow)](https://skillicons.dev)
