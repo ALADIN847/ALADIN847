@@ -8,7 +8,7 @@
 
 ## 🚀 About Me
 
-`Backend Developer` working on `copile`. Improving every day
+`Backend Developer` - Improving every day
 
 ---
 
